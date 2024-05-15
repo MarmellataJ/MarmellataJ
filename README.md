@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarmellataJ
-- 👀 I’m interested in ML and GameDev
+- 👀 I’m interested in ML, GameDev and Chess
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: don't
 - 😄 Pronouns: he/him
